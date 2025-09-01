@@ -40,6 +40,12 @@ The system is deployed via a user-friendly web-based interface that simplifies t
   * **Image Upload**: Users can directly upload a microscopy tissue image.
   * **Automated Clustering & Prediction**: The system automatically applies the clustering and prediction algorithms upon image upload.
   * **Detailed Results**: The web interface displays the predicted vitamin deficiency along with relevant information on the deficiency's symptoms and potential treatments, providing immediate value to the user.
+<img width="1512" height="873" alt="Screenshot 2025-03-10 221327" src="https://github.com/user-attachments/assets/bb2898b3-5bab-4219-bfdb-8c2a5fa65546" />
+<img width="1529" height="802" alt="Screenshot 2025-03-10 221434" src="https://github.com/user-attachments/assets/90c489c1-4c09-43d3-9d00-a66c41cfaf74" />
+<img width="1531" height="821" alt="Screenshot 2025-03-10 221519" src="https://github.com/user-attachments/assets/eff77f74-cead-4e2f-8aba-820517fc7632" />
+<img width="1509" height="767" alt="Screenshot 2025-03-10 221543" src="https://github.com/user-attachments/assets/00d6fc1c-724c-4097-8de1-44a623b2f41d" />
+<img width="1270" height="669" alt="Screenshot 2025-03-10 221633" src="https://github.com/user-attachments/assets/447fef0b-54bb-43f0-97df-e5769f901c61" />
+
 
 ## 5\. Performance Evaluation
 
